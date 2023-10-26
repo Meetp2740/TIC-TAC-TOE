@@ -1,0 +1,10 @@
+.w-28 > img{
+    height: 70px;
+    width: 70px;
+}
+
+.w-28 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
